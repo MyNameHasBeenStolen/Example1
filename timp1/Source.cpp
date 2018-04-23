@@ -3,7 +3,6 @@
 #include <cstdlib>
 #include <cmath>
 
-/*Типа комментарий*/
 using namespace std;
 int main(int argc, char * argv[])
 {
